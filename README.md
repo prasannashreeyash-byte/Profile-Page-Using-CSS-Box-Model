@@ -74,4 +74,3 @@ No server or installation is required.
 
 This Personal Profile Website project successfully demonstrates the basics of HTML and CSS in a practical way. It serves as a strong foundation for learning advanced web development concepts and can be expanded into a full portfolio website in the future.
 
-Just tell me 😊
