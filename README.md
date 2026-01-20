@@ -71,7 +71,7 @@ No server or installation is required.
 * Include social media links
 
   OUTPUT:
-  ![image alt]()
+  ![image alt](https://github.com/prasannashreeyash-byte/Profile-Page-Using-CSS-Box-Model/blob/8cd4a2d1d9d1ba321d5182642cb99d75d1978837/Screenshot%202026-01-20%20151900.png)
   ![image alt]()
 
 
