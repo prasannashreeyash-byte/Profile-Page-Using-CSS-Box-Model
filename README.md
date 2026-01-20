@@ -70,4 +70,8 @@ No server or installation is required.
 * Add JavaScript for interactivity
 * Include social media links
 
+  OUTPUT:
+  ![image alt]()
+  ![image alt]()
+
 
