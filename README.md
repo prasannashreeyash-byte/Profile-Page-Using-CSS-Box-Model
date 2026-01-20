@@ -1,12 +1,12 @@
 # Profile-Page-Using-CSS-Box-Model
 
- 📌 Project Overview
+ Project Overview
 
 The **Personal Profile Website** is a simple static web project created using **HTML5** and **CSS3**. This project is designed to help beginners understand the basic structure of a webpage, the use of semantic HTML elements, and the application of CSS styling concepts such as cascading, box model, and layout design. The website presents personal information such as name, education, skills, and contact details in a clean and organized format.
 
 This project is ideal for students who are starting their journey in **web development** and want to practice building real-world webpages using foundational technologies.
 
- 🎯 Objectives of the Project
+ Objectives of the Project
 
 The main objectives of this project are:
 
@@ -16,7 +16,7 @@ The main objectives of this project are:
 * To demonstrate the CSS box model (margin, border, padding, and content)
 * To create a visually appealing and readable personal profile page
 
- 🛠 Technologies Used
+ Technologies Used
 
 * **HTML5** – For creating the structure and content of the webpage
 * **CSS3** – For styling the webpage and improving visual appearance
@@ -24,7 +24,7 @@ The main objectives of this project are:
 
 No external libraries or frameworks are used, making this project lightweight and easy to understand.
 
- 📂 Project Structure
+ Project Structure
 
 The project consists of a single HTML file:
 
@@ -36,7 +36,7 @@ Personal-Profile/
 
 All CSS styling is written inside the `<style>` tag within the HTML file, making it a **single-file project**.
 
-🧩 Features of the Website
+ Features of the Website
 
 * A header section displaying the name and role
 * A navigation menu to jump to different sections
@@ -46,7 +46,7 @@ All CSS styling is written inside the `<style>` tag within the HTML file, making
 * Clean layout using CSS box model
 * Consistent color theme and readable font styles
 
- 📖 Explanation of Key Concepts Used
+Explanation of Key Concepts Used
 
 * **Semantic HTML**: Improves readability and structure of the webpage
 * **CSS Cascading**: Global styles applied through the `body` tag
@@ -54,7 +54,7 @@ All CSS styling is written inside the `<style>` tag within the HTML file, making
 * **Navigation Links**: Uses `id` attributes to move between sections
 
 
-▶️ How to Run the Project
+How to Run the Project
 
 1. Download or copy the `index.html` file
 2. Open the file using any web browser
@@ -62,7 +62,7 @@ All CSS styling is written inside the `<style>` tag within the HTML file, making
 
 No server or installation is required.
 
- 🚀 Future Enhancements
+ Future Enhancements
 
 * Add a profile image
 * Move CSS to an external `style.css` file
@@ -70,7 +70,4 @@ No server or installation is required.
 * Add JavaScript for interactivity
 * Include social media links
 
-📜 Conclusion
-
-This Personal Profile Website project successfully demonstrates the basics of HTML and CSS in a practical way. It serves as a strong foundation for learning advanced web development concepts and can be expanded into a full portfolio website in the future.
 
