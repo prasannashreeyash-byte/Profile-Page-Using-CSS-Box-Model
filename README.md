@@ -72,6 +72,6 @@ No server or installation is required.
 
   OUTPUT:
   ![image alt](https://github.com/prasannashreeyash-byte/Profile-Page-Using-CSS-Box-Model/blob/8cd4a2d1d9d1ba321d5182642cb99d75d1978837/Screenshot%202026-01-20%20151900.png)
-  ![image alt]()
+  ![image alt](https://github.com/prasannashreeyash-byte/Profile-Page-Using-CSS-Box-Model/blob/e90f7ec8478c90b8d272dae3bd9bc2ccddfa08e9/Screenshot%202026-01-20%20151920.png)
 
 
